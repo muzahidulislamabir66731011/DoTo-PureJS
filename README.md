@@ -42,4 +42,7 @@ Static hosting friendly—drag the folder to Netlify, Vercel, GitHub Pages or ev
 
 ## License
 MIT – fork, brand, sell, whatever. Just keep the tiny ⚡ emoji happy.
-```
+
+### LIVE DEMO
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-DoTo--PureJS-blue?style=for-the-badge&logo=github)](https://muzahidulislamabir66731011.github.io/DoTo-PureJS/)
+
